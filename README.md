@@ -36,4 +36,13 @@ Some projects I'm currently working on:
 
 ---
 
+## 📬 You can reach me
+
+Feel free to reach out if you want to collaborate, have questions, or just say hi!
+
+**Email:** rayanselmi100@gmail.com
+**Twitter:** [@rsStats](https://x.com/rsStats_)
+
+---
+
 *Thanks for visiting! Feel free to check out my projects or reach out.*
