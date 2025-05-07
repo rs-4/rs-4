@@ -25,7 +25,7 @@ Some projects I'm currently working on:
 
 - [Nextfast](https://rayan.dev) – Next.js Boilerplate  
 - [Yoummy](https://www.yoummy.fr) – Yoummy | AI-Powered Cooking Assistant
-
+- [Astralura](https://www.astralura.com) - Astralura | Your daily Horoscope
 ---
 
 ## 🧰 Tech Stack
