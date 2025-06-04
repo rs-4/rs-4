@@ -23,7 +23,7 @@ Some projects I'm currently working on:
 
 ## 🌐 Live Websites
 
-- [Nextfast](https://rayan.dev) – Next.js Boilerplate  
+- [Nextfast](https://nextfast.hannera.com) – Next.js Boilerplate  
 - [Yoummy](https://www.yoummy.fr) – Yoummy | AI-Powered Cooking Assistant
 - [Astralura](https://www.astralura.com) - Astralura | Your daily Horoscope
 ---
