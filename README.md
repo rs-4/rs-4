@@ -46,5 +46,3 @@ Feel free to reach out if you want to collaborate, have questions, or just say h
 ---
 
 *Thanks for visiting! Feel free to check out my projects or reach out.*
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rs-4)](https://github.com/rs-4/github-readme-stats)
