@@ -1,7 +1,18 @@
 # 👋 Hello, I'm Rayan
 
-I'm a **React** and **React Native** developer focused on building clean, fast, and modern apps with **TypeScript**.  
-I love crafting smooth user experiences for both web and mobile platforms.
+**Based in Paris 🇫🇷**  
+I'm a **React** and **React Native** developer passionate about building **clean**, **fast**, **animate**, and **modern** apps with **TypeScript**.  
+I focus on delivering smooth user experiences on both **web** and **mobile** platforms.
+
+---
+
+## 🌐 Live Websites
+
+- [Expobase](https://expobase.dev) – Expo Boilerplate for building modern mobile apps  
+- [Hannera](https://hannera.com) – Social Freelancer Collective  
+- [Nextfast](https://nextfast.hannera.com) – Next.js Boilerplate  
+- [Yoummy](https://www.yoummy.fr) – Yoummy | AI-Powered Cooking Assistant  
+- [Astralura](https://www.astralura.com) – Your Daily Horoscope App
 
 ---
 
@@ -9,7 +20,7 @@ I love crafting smooth user experiences for both web and mobile platforms.
 
 Some projects I'm currently working on:
 
-- [Hannera](https://link-to-your-project1.com) – Social Freelancer Collective  
+- [Hannera](https://hannera.com) – Social Freelancer Collective  
 - Nutr Ai – AI calorie tracker app, clean and fast as possible
 
 ---
@@ -19,13 +30,6 @@ Some projects I'm currently working on:
 - [Yoummy](https://apps.apple.com/us/app/yoummy-ai-cooking-assistant/id6739540255) – Yoummy | AI-Powered Cooking Assistant  
 - [10Versets](https://apps.apple.com/fr/app/dix-versets-lecture-du-coran/id1671393951) – Dix Versets – Quran Reading App
 
----
-
-## 🌐 Live Websites
-
-- [Nextfast](https://nextfast.hannera.com) – Next.js Boilerplate  
-- [Yoummy](https://www.yoummy.fr) – Yoummy | AI-Powered Cooking Assistant
-- [Astralura](https://www.astralura.com) - Astralura | Your daily Horoscope
 ---
 
 ## 🧰 Tech Stack
@@ -40,9 +44,9 @@ Some projects I'm currently working on:
 
 Feel free to reach out if you want to collaborate, have questions, or just say hi!
 
-**Email:** rayanselmi100@gmail.com
+**Email:** rayanselmi100@gmail.com  
 **Twitter:** [@rsStats](https://x.com/rsStats_)
 
 ---
 
-*Thanks for visiting! Feel free to check out my projects or reach out.*
+*Thanks for visiting! Check out my projects or drop me a message.*
